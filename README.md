@@ -1,0 +1,2 @@
+mans pirmais git projekts
+
